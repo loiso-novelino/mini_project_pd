@@ -1,0 +1,5 @@
+1|DATE NOTE|Someone|2011|3|Fiksi
+2|RETURN OF THE FLOWERY MOUNTAIN|Mmm|2020|1|Fiksi
+3|SSS-CLASS REVIVAL|Sinnoa|2019|2|Fiksi
+4|RE:ZERO|Tappei Nagatsuki|2012|5|Fiksi
+5|LAMPAU|Rrr|2023|3|Sejarah

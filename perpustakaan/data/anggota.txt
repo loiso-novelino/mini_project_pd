@@ -1,0 +1,4 @@
+1|juve|juveloiso12@gmail.com|08962111222|L|aktif
+2|loiso|loisojuve@gmail.com|0896211122233|L|aktif
+3|novel|novel65@gmail.com|089632145368|L|aktif
+4|lino|lin45@gmail.com|085678532647|P|aktif
