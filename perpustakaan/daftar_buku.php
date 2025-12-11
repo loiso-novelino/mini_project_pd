@@ -34,13 +34,13 @@ if ($kategori_filter !== '') {
 <body>
     <header>
         <div class="container">
-            <h1>📚 Sistem Manajemen Perpustakaan</h1>
+            <h1>Sistem Manajemen Perpustakaan</h1>
         </div>
     </header>
 
     <main>
         <div class="card">
-            <h2>📚 Daftar Buku</h2>
+            <h2>Daftar Buku</h2>
 
             <div class="filter-bar">
                 <a href="?kategori=" class="<?= $kategori_filter === '' ? 'active' : '' ?>">Semua</a>

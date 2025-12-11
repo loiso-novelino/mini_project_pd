@@ -28,13 +28,13 @@ foreach ($pinjam_list as $p) {
 <body>
     <header>
         <div class="container">
-            <h1>📚 Sistem Manajemen Perpustakaan</h1>
+            <h1>Sistem Manajemen Perpustakaan</h1>
         </div>
     </header>
 
     <main>
         <div class="card">
-            <h2>📜 Riwayat Peminjaman: <?= htmlspecialchars($anggota[1]) ?></h2>
+            <h2>Riwayat Peminjaman: <?= htmlspecialchars($anggota[1]) ?></h2>
 
             <?php if (empty($riwayat)): ?>
                 <div class="alert alert-error">Anggota ini belum pernah meminjam buku.</div>

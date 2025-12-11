@@ -14,13 +14,13 @@ $anggota_list = bacaFile('data/anggota.txt');
 <body>
     <header>
         <div class="container">
-            <h1>📚 Sistem Manajemen Perpustakaan</h1>
+            <h1>Sistem Manajemen Perpustakaan</h1>
         </div>
     </header>
 
     <main>
         <div class="card">
-            <h2>👥 Daftar Anggota</h2>
+            <h2>Daftar Anggota</h2>
 
             <?php if (empty($anggota_list)): ?>
                 <div class="alert alert-error">Belum ada anggota terdaftar.</div>

@@ -47,13 +47,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
     <header>
         <div class="container">
-            <h1>📚 Sistem Manajemen Perpustakaan</h1>
+            <h1>Sistem Manajemen Perpustakaan</h1>
         </div>
     </header>
 
     <main>
         <div class="card">
-            <h2>➕ Tambah Buku Baru</h2>
+            <h2>Tambah Buku Baru</h2>
 
             <?php if ($error): ?>
                 <div class="alert alert-error"><?= htmlspecialchars($error) ?></div>
